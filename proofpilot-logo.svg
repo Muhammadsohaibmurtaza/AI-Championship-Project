@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260">
+  <rect width="900" height="260" rx="28" fill="#101827"/>
+  <g transform="translate(48 45)">
+    <rect x="0" y="0" width="150" height="170" rx="22" fill="#18283d" stroke="#53e0c1" stroke-width="4"/>
+    <path d="M36 42 H100 M36 66 H112 M36 90 H88" stroke="#dbeafe" stroke-width="8" stroke-linecap="round"/>
+    <path d="M34 125 L61 147 L116 103" fill="none" stroke="#53e0c1" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="117" cy="43" r="15" fill="#f6b84b"/>
+  </g>
+  <text x="235" y="115" font-family="Inter,Arial,sans-serif" font-size="58" font-weight="700" fill="#f8fafc">ProofPilot AI</text>
+  <text x="238" y="164" font-family="Inter,Arial,sans-serif" font-size="25" fill="#53e0c1">From documents to decisions—with evidence.</text>
+  <text x="238" y="205" font-family="Inter,Arial,sans-serif" font-size="17" fill="#b7c4d6">Evidence-grounded document review assistant</text>
+</svg>
